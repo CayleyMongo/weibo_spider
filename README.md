@@ -2,7 +2,9 @@
 使用python自动爬取指定微博用户的微博和图片，并对微博进行归类分析。
 
 一、数据准备。
-得到uid和cookie具体方法参考我的博客。将得到的数据填入到weibo.py中。
+得到uid和cookie具体方法参考我的简书。
+http://www.jianshu.com/p/e6bca8407204
+将得到的数据填入到weibo.py中。
 
 二、数据爬取。
 笔者terminal运行。环境python2.7 / macOS 10.12.3
